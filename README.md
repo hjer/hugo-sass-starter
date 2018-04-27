@@ -16,6 +16,8 @@ Note: In this project `static` is dynamically generated from `src` and added to 
 ## How to use
 Requires hugo. Install instructions [here](https://gohugo.io/getting-started/quick-start/).
 
+In some cases gulp needs to be installed globally before proceeding. In that case run: `npm install -g gulp`.
+
 ### Development
 From the project directory on you machine:
 1. Install depencencies: `npm install`
