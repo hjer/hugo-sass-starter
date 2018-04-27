@@ -13,4 +13,6 @@ Inspired by [@dan_bahrami](https://twitter.com/dan_bahrami)'s [article](http://d
 
 Note: In this project `static` is dynamically generated from `src` and added to `gitignore`.
 
+Demo deployed here: [hugo-sass-starter.netlify.com](https://hugo-sass-starter.netlify.com/)
+
 ### Huge thanks to [@pappapez](https://twitter.com/pappapez) for help with writing the build-script, the gulpfile and everything else!
